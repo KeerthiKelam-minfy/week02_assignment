@@ -1,0 +1,30 @@
+{
+  "name": "vibecheck-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.0",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeerthiKelam-minfy/vibecheck-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KeerthiKelam-minfy/vibecheck-api/issues"
+  },
+  "homepage": "https://github.com/KeerthiKelam-minfy/vibecheck-api#readme",
+  "description": ""
+}
